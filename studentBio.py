@@ -14,4 +14,4 @@ for i in range(0,9):
       yearOfStudy = int(input('Enter your Year of study: '))
       students.append(yearOfStudy)
       graduationYear = int(input('Enter your expected year of graduation: '))
-  print(students)
+print(students)
